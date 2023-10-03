@@ -30,7 +30,7 @@
 <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alba-mu%C3%B1oz-rodr%C3%ADguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albamur linkedin" height="30" width="14" /></a> <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albamur&label=Profile%20views&color=028f78&style=flat" alt="albamur" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=albamur&label=Profile%20views&color=028f78&style=flat" alt="albamur" /> </p>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=albamur&style=for-the-badge"> -->
 <!--<img alighn="center" alt="Coding" width="600" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">-->
 <!--
