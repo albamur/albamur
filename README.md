@@ -1,7 +1,7 @@
 <!--### Hola, mi nombre es Alba 👋-->
 
 <h1 align="center">Hi 👋, I'm Alba Muñoz</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Junior Full-Stack Developer</h3>
 - 🔭 I am currently working on automating robotics development with Autohotkey in my company. <br>
 - 🌱 I’m currently learning Python 
 <a href="https://devguide.python.org/" target="_blank" rel="noreferrer"> 
