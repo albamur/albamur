@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alba Muñoz</h1>
 <h3 align="center">Junior Full-Stack Developer</h3><br>
 - 🔭 I am currently working on automating robotics development with Autohotkey in my company. <br><br>
-- 🌱 I’m currently learning: <br>
-<a href="https://devguide.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a> 
+- 🌱 I’m currently learning: <a href="https://lemoncode.net/bootcamp-javascript#bootcamp-javascript/inicio" target="_blank" rel="noreferrer"> Bootcamp JS by Lemoncode </a>
 <br>
 - 👩🏼‍🎓 I studied: <br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
