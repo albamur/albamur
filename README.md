@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Alba Muñoz</h1>
 <h3 align="center">Junior Full-Stack Developer</h3><br>
-- 🔭 I am currently working on automating robotics development with Autohotkey in my company. <br><br>
+<p>- 🔭 I am currently working on automating robotics development with Autohotkey in my company.</p> <br><br>
 - 🌱 I’m currently learning: Master de Desarrollo con IA
 <br>
-- 👩🏼‍🎓 I studied: <br>
+- 👩🏼‍🎓 I studied: 
+<br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
   </a> 
