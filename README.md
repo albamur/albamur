@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Alba Muñoz</h1>
 <h3 align="center">Junior Full-Stack Developer</h3><br>
-<p>- 🔭 I am currently working on automating robotics development with Autohotkey in my company.</p> <br><br>
-- 🌱 I’m currently learning: Master de Desarrollo con IA
+<p>- 🔭 I am currently working on automating robotics development with Autohotkey an Selenium in Accenture.</p> <br>
+<p>- 🌱 I’m currently learning: Master de Desarrollo con IA </p>
 <br>
-- 👩🏼‍🎓 I studied: 
+<p>- 👩🏼‍🎓 I studied: </p>
 <br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
@@ -27,7 +27,9 @@
   </a> 
 <br>
 <br>
+<p><
 - 📫 How to reach me: <br> <a href="https://www.linkedin.com/in/alba-mu%C3%B1oz-rodr%C3%ADguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albamur linkedin" height="20" width="20" /></a> <br>
+  /p>
 <br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=albamur&label=Profile%20views&color=028f78&style=flat" alt="albamur" /> </p>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=albamur&style=for-the-badge"> -->
